@@ -1,0 +1,1 @@
+import{S as s,i as t,s as r}from"../chunks/vendor-67bd6b47.js";function e(){return{redirect:"/top/1",status:301}}class n extends s{constructor(s){super(),t(this,s,null,null,r,{})}}export{n as default,e as load};
